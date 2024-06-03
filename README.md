@@ -1,4 +1,4 @@
-This is an unlocked version of the Dishonored freescroll macro, originally made by [Som1se](https://github.com/Som1Lse). 
+This is an unlocked version of the Dishonored freescroll macro, originally made by [Som1se](https://github.com/Som1Lse). All credit goes to them.
 
 To use:
  1. Download the macro, containing the .exe and .ini files.
