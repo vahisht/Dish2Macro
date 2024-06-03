@@ -13,6 +13,4 @@ You can also spam `wheel up` instead, or set up separate keys for each scroll wh
 See that file for an information on how to configure the macro.
 
 # Is this allowed in speedruns?
-Yes.
-
-Specifically any of the Dishonored games allow it.
+Usually needs to be explicitly allowed by the moderators of the game. If you're not sure, ask!
