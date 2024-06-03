@@ -1,5 +1,4 @@
-A macro for Dishonored 2 (and since then also Dishonored: Death of the Outsider and Dishonored 1),
-that allows you to bunnyhop without a freescroll mouse.
+This is an unlocked version of a freescroll macro, originally made by [Som1se](https://github.com/Som1Lse). 
 
 To use:
  1. Run the program.
