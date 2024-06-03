@@ -120,6 +120,8 @@ void ReadConfiguration(ini_lexer Ini){
 }
 
 bool IsGameInFocus(){
+    return true;
+
     auto Window = GetForegroundWindow();
 
     constexpr int BufferSize = 35;
